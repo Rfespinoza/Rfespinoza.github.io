@@ -1,0 +1,30 @@
+body {
+    background-image: url("../img/Pool_and_Ocean.jpeg");
+    background-color: lightblue;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1 {
+  color: whitesmoke;
+  text-align: center;
+}
+
+nav {
+  font-family: veranda;
+  font-size: 25px;
+  color: darkgrey;
+  }
+
+img {
+  border-radius: 65%;
+}
+div {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  width: 15%;
+  position:left;
+}
