@@ -1,35 +1,60 @@
 body {
     background-image: url("../img/Joshua_Tree.jpeg");
-    background-color: aquamarine;
+    background-color: #00FFFF;
     background-repeat: no-repeat;
     background-size: 85%;
 }
 
+
+h2 {
+  color: whitesmoke;
+  text-align: center;
+  font-family: serif;
+  font-size: 35pt;
+  font-style: shadow;
+}
+
+p {
+  font-size: 12pt;
+  text-align: center;
+  font-family: serif;
+ margin-top: 35px;
+  margin-bottom: 100px;
+  margin-right: 300px;
+  margin-left: 80px;
+}
+
+
 h1 {
   color: whitesmoke;
   text-align: center;
+  font-size: 25pt;
+  font-family: 'Eagle Lake';font-size: 22px;
+
 }
 
 nav {
   font-family: veranda;
   font-size: 25px;
+  text-align: margin-right;
   }
 
 a {
     font-family: veranda;
-    color: sienna;
+    color: antiquewhite;
     font-weight: bold;
+    text-align: right;
 }
+
 
 img {
   border-radius: 65%;
   }
 div {
   display: flex;
-  justify-content: left;
+  justify-content: right;
 }
 
 img {
   width: 15%;
-  position: left;
 }
