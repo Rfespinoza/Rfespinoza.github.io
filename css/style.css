@@ -1,8 +1,8 @@
 body {
-    background-image: url("../img/Pool_and_Ocean.jpeg");
-    background-color: lightblue;
+    background-image: url("../img/Joshua_Tree.jpeg");
+    background-color: aquamarine;
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 85%;
 }
 
 h1 {
@@ -13,18 +13,23 @@ h1 {
 nav {
   font-family: veranda;
   font-size: 25px;
-  color: darkgrey;
   }
+
+a {
+    font-family: veranda;
+    color: sienna;
+    font-weight: bold;
+}
 
 img {
   border-radius: 65%;
-}
+  }
 div {
   display: flex;
-  justify-content: center;
+  justify-content: left;
 }
 
 img {
   width: 15%;
-  position:left;
+  position: left;
 }
